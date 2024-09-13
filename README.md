@@ -4,13 +4,13 @@
 - With experience in HTML, CSS, JavaScript, and backend technologies, I love turning ideas into reality.
 
 ## About Me
-- 💼 I have worked as a **JEE Admission Counsellor** at JCS startup.
+- 💼 I have worked as a **JEE Admission Counsellor** at JCS.
 - 🎓 I served as a **Student Coordinator** at the Training and Placement Office, helping organize placement drives and support the recruitment process.
 - 🏆 I won a **silver medal** at the national-level roller hockey championship.
 - ✍️ I enjoy sharing knowledge about frontend development and industry trends.
 
 - 🌱 I am currently making full-stack projects that involve:
-- **Frontend Technologies**: React.js, Bootstrap
+- **Frontend Technologies**: React.js, Bootstrap ,Tailwind CSS
 - **Backend Technologies**: Node.js, Express.js
 - **Database Management**: MongoDB, MySQL
 - 
