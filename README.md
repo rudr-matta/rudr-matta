@@ -36,7 +36,6 @@
 💞️ I’m open to collaborating on **full-stack development projects**, particularly those that focus on building **innovative and impactful web applications**.  
 🤝 Let’s connect and **bring creative ideas to life together!**
 
-- 
 - 📫 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/rudr-matta-01d02m05y)
 Feel free to reach out if you want to collaborate or chat about tech! 🚀
