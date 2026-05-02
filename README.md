@@ -15,24 +15,6 @@
 
 ---
 
-### 🛠️ Current Tech Stack
-
-**Frontend**: React.js, Tailwind CSS, Bootstrap  
-**Backend**: Node.js, Express.js  
-**Databases**: MongoDB, MySQL, PostgreSQL  
-**DevOps**: Docker, Vercel  
-**Others**: Redux, Prisma, WebRTC, Web Sockets
-
----
-
-### 🧪 Projects Snapshot
-
-🔸 **VR-Connect** – A 2D virtual space with real-time voice modulation and customizable layouts, serving 500+ users.  
-🔸 **Vision Board** – A collaborative whiteboard using LiveKit’s WebRTC with Dockerized deployment and sub-20ms response times.  
-🔸 **React Pizza App** – Real-time location-enabled pizza ordering platform using React and Redux.
-
----
-
 💞️ I’m open to collaborating on **full-stack development projects**, particularly those that focus on building **innovative and impactful web applications**.  
 🤝 Let’s connect and **bring creative ideas to life together!**
 
